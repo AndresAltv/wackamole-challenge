@@ -3,7 +3,7 @@
 This is a begginer level challenge for ReactJS Developer, Even if you already have
 experience, it is a lot of fun to create it.
 
-It was created with [ViteJS](https://vitejs.dev/) and Typescript.
+Created with [ViteJS](https://vitejs.dev/) and Typescript.
 
 ![wack-a-mole](./wackamole.png)
 
