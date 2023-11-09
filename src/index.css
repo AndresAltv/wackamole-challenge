@@ -1,0 +1,55 @@
+body{
+  background:rgb(25, 34, 43);
+}
+
+#wack-title{
+  color:#fff;
+  text-align: center;
+}
+
+#scoreholder {
+  color:#fff;
+  text-align: center;
+}
+
+#grid{
+  margin: 30px auto;
+  text-align: center;
+  width:800px;
+}
+
+#grid img {
+  margin-bottom:-10px;
+}
+
+.moleimg {
+  cursor:grab;
+}
+
+.action{
+  padding:10px;
+  text-align: center;
+}
+
+.action > button {
+  background:none;
+  border:2px solid #fff;
+  border-bottom:5px solid #fff;
+  border-radius:5px;
+  color:#fff;
+  padding:10px 15px;
+}
+
+.action > button:active {
+  cursor: grabbing;
+}
+
+.creator{
+  color:#fff;
+  font-size:24px;
+  text-align: center;
+}
+
+.creator a {
+  color:#0084ff;
+}
